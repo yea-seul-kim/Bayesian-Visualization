@@ -1,0 +1,1 @@
+A Bayesian Model of Cognition to EvaluateEveryday Data Interpretation
