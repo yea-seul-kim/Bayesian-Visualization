@@ -1,6 +1,6 @@
-#A Bayesian Model of Cognition to EvaluateEveryday Data Interpretation
+# A Bayesian Model of Cognition to EvaluateEveryday Data Interpretation
 
-##Supplemental materials
+## Supplemental materials
 
 1) Sample + partial distribution technique secondary analysis
 2) Sensitivity analysis to fitting process – sample based elicitation techniques
