@@ -1,4 +1,4 @@
-# A Bayesian Model of Cognition to EvaluateEveryday Data Interpretation
+# A Bayesian Cognition Approach to Improve Data Visualization
 
 ## Supplemental materials
 
